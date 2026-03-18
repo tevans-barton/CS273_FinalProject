@@ -1,2 +1,2 @@
-# DATA210P_FinalProject
-Data 210P Final Project
+# CS273_FinalProject
+CS 273 Final Project
