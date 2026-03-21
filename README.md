@@ -1,5 +1,7 @@
 # CS273_FinalProject
-CS 273 Final Project
+Sayan Andrews
+Austin Sunwoo Lee
+Thomas Evans-Barton
 
 ## Project Overview
 In this project we aimed to build a binary classifier to predict whether or not a college basketball team would advance past the first round of the tournament, using the team's regular season statistics as a predictor.
