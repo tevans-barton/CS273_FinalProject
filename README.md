@@ -50,4 +50,3 @@ from sklearn.metrics import accuracy_score, roc_auc_score
 import matplotlib.pyplot as plt
 ```
 
-Python 3.10+ recommended.
