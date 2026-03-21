@@ -1,6 +1,8 @@
 # CS273_FinalProject
 Sayan Andrews
+
 Austin Sunwoo Lee
+
 Thomas Evans-Barton
 
 ## Project Overview
